@@ -1,0 +1,10 @@
+*.pyc
+show.py
+data/
+save/
+.backup/
+
+/data
+/img
+/save
+/raw
